@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<columns count="6">
+  <column>
+    <name>AccountID</name>
+    <type>int</type>
+  </column>
+  <column>
+    <name>Name</name>
+    <type>varchar</type>
+  </column>
+  <column>
+    <name>Balance</name>
+    <type>decimal</type>
+  </column>
+  <column>
+    <name>Amount</name>
+    <type>decimal</type>
+  </column>
+  <column>
+    <name>Interest</name>
+    <type>decimal</type>
+  </column>
+  <column>
+    <name>Date</name>
+    <type>varchar</type>
+  </column>
+</columns>
+
